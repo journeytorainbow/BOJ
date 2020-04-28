@@ -10,7 +10,4 @@ cache[2] = 2
 for i in range(3, N+1):
     cache[i] = (cache[i-2] + cache[i-1]) % 15746
 
-print(cache[N])
-
-
-        
+print(cache[N])    
