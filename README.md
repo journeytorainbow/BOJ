@@ -9,11 +9,10 @@
 <li><a href="https://www.acmicpc.net/problem/11053">11053번 : 가장 긴 증가하는 부분 수열(LIS) </a></li>
 
 <li><a href="https://www.acmicpc.net/problem/9251">9251번 : LCS </a></li>
-
-
+<br> 
 분류 : 트리
 <li><a href="https://www.acmicpc.net/problem/2250">2250번 : 트리의 높이와 넓이</a> (구현)</li>
-
+<br>
 분류 : 정렬
 <li><a href="https://www.acmicpc.net/problem/10989">10989번 : 수 정렬하기3</a> (계수 정렬)</li>
 
