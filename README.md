@@ -10,3 +10,7 @@
 
 <li><a href="https://www.acmicpc.net/problem/9251">9251번 : LCS </a></li>
 
+
+분류 : 트리
+<li><a href="https://www.acmicpc.net/problem/2250">2250번 : 트리의 높이와 넓이</a> (구현)</li>
+
