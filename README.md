@@ -14,3 +14,6 @@
 분류 : 트리
 <li><a href="https://www.acmicpc.net/problem/2250">2250번 : 트리의 높이와 넓이</a> (구현)</li>
 
+분류 : 정렬
+<li><a href="https://www.acmicpc.net/problem/10989">10989번 : 수 정렬하기3</a> (계수 정렬)</li>
+
