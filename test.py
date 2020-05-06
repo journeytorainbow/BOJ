@@ -1,2 +1,12 @@
+from collections import defaultdict
+test = defaultdict(list)
 
-print("{}\n".format(5)*4, end="")
+test[1].append(3)
+test[1].append(2)
+
+print(test)
+
+for i in test:
+    i.sort()
+
+print(test)

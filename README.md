@@ -14,7 +14,12 @@
 <br> 
 분류 : 트리
 <li><a href="https://www.acmicpc.net/problem/2250">2250번 : 트리의 높이와 넓이</a> (구현)</li>
+
 <br>
 분류 : 정렬
 <li><a href="https://www.acmicpc.net/problem/10989">10989번 : 수 정렬하기3</a> (계수 정렬)</li>
 
+<br> 
+분류 : DFS, BFS
+<li><a href="https://www.acmicpc.net/problem/1260">1260번 : DFS와 BFS</a> (DFS+BFS)</li>
+<br>
