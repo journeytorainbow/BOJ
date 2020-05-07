@@ -21,5 +21,6 @@
 
 <br> 
 분류 : DFS, BFS
-<li><a href="https://www.acmicpc.net/problem/1260">1260번 : DFS와 BFS</a> (DFS+BFS)</li>
+<li><a href="https://www.acmicpc.net/problem/1260">1260번 : DFS와 BFS</a> (DFS+BFS)★</li>
+<li><a href="https://www.acmicpc.net/problem/1697">1697번 : 숨바꼭질</a> (BFS)★</li>
 <br>

@@ -1,5 +1,4 @@
-test = [1,2,3,4]
-a = [10,20]
+from collections import deque
 
-test.extend(a)
-print(test)
+a = deque([1,2])
+print(a)
