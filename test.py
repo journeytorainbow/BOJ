@@ -1,12 +1,5 @@
-from collections import defaultdict
-test = defaultdict(list)
+test = [1,2,3,4]
+a = [10,20]
 
-test[1].append(3)
-test[1].append(2)
-
-print(test)
-
-for i in test:
-    i.sort()
-
+test.extend(a)
 print(test)
