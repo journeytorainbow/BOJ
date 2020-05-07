@@ -5,13 +5,11 @@ from collections import defaultdict
 N, M, V = map(int, sys.stdin.readline().split())
 graph = defaultdict(list)
 
-
 # 그래프 입력 받기
 for _ in range(M):
     a, b = map(int, sys.stdin.readline().split())
     graph[a].append(b)
     graph[b].append(a)
-
 
 def dfs(graph, start_node):
     # 내림 차순 정렬
@@ -29,7 +27,6 @@ def dfs(graph, start_node):
             need_visit.extend(graph[node])
     # print(*visited)
     print(' '.join(str(x) for x in visited))
-
 
 def bfs(graph, start_node):
     # 오름 차순 정렬
