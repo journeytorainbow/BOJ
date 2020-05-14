@@ -21,7 +21,8 @@
 
 <br> 
 분류 : DFS, BFS
-<li><a href="https://www.acmicpc.net/problem/1260">1260번 : DFS와 BFS</a> (DFS+BFS)★</li>
-<li><a href="https://www.acmicpc.net/problem/1697">1697번 : 숨바꼭질</a> (BFS)★</li>
+<li><a href="https://www.acmicpc.net/problem/1260">1260번 : DFS와 BFS</a> (DFS+BFS)</li>
+<li><a href="https://www.acmicpc.net/problem/1697">1697번 : 숨바꼭질</a> (BFS)</li>
 <li><a href="https://www.acmicpc.net/problem/2606">2606번 : 바이러스</a> (DFS,BFS)</li>
+<li><a href="https://www.acmicpc.net/problem/1012">1012번 : 유기농 배추(</a> (DFS,BFS)</li>
 <br>
