@@ -26,4 +26,7 @@
 <li><a href="https://www.acmicpc.net/problem/2606">2606번 : 바이러스</a> (DFS,BFS)</li>
 <li><a href="https://www.acmicpc.net/problem/1012">1012번 : 유기농 배추(</a> (DFS,BFS)</li>
 <li><a href="https://www.acmicpc.net/problem/1325">1325번 : 효율적인 해킹(</a> (DFS,BFS)</li>
-<br>
+
+<br> 
+* 분류 : 탐욕 알고리즘(그리디)
+<li><a href="https://www.acmicpc.net/problem/5855">5855번 : 거스름돈</a></li>
