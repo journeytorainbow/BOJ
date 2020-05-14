@@ -10,7 +10,3 @@ for coin in coins:
         count += 1
 
 print(count)
-
-
-    
-
