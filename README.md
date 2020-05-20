@@ -34,3 +34,4 @@
 <br>
 * 분류 : 다익스트라 알고리즘
 <li><a href="https://www.acmicpc.net/problem/10282">10282번 : 해킹</a></li>
+<li><a href="https://www.acmicpc.net/problem/5719">5719번 : 거의 최단 경로</a>(+BFS)</li>
