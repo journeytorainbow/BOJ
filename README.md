@@ -30,6 +30,7 @@
 <br> 
 * 분류 : 탐욕 알고리즘(그리디)
 <li><a href="https://www.acmicpc.net/problem/5855">5855번 : 거스름돈</a></li>
+<li><a href="https://www.acmicpc.net/problem/1439">1439번 : 뒤집기</a></li>
 
 <br>
 * 분류 : 다익스트라 알고리즘
