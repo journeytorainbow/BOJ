@@ -1,4 +1,4 @@
-""" 우선순위큐 사용 o """
+""" 우선순위큐 사용 O """
 
 import sys
 import heapq
