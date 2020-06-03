@@ -33,7 +33,8 @@
 <li><a href="https://www.acmicpc.net/problem/1439">1439번 : 뒤집기</a></li>
 <li><a href="https://www.acmicpc.net/problem/2012">2012번 : 등수 매기기</a>(+정렬)</li>
 <li><a href="https://www.acmicpc.net/problem/2012">1092번 : 배</a>(+정렬)</li>
-<li><a href="https://www.acmicpc.net/problem/1461">1461번 : 센서</a></li>
+<li><a href="https://www.acmicpc.net/problem/1461">1461번 : 도서관</a></li>
+<li><a href="https://www.acmicpc.net/problem/2212">2212번 : 센서</a></li>
 
 <br>
 * 분류 : 다익스트라 알고리즘

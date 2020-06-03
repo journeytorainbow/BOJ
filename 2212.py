@@ -3,7 +3,7 @@ import sys
 n = int(sys.stdin.readline())
 k = int(sys.stdin.readline())
 
-# 집중국개수가 센서개수 이상 일 때, 
+# 집중국 개수가 센서개수 이상 일 때, 
 # 집중국을 센서 위치에 설치하면 되므로 답은 0
 if k >= n:
     print(0)
