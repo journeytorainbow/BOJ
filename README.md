@@ -48,4 +48,4 @@
 
 <br>
 * 분류 : 기타
-<li><a href="https://www.acmicpc.net/problem/2920">2920번 : 음계</a>(배열, 구현))</li>
+<li><a href="https://www.acmicpc.net/problem/2920">2920번 : 음계</a>(배열, 구현)</li>
