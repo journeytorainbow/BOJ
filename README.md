@@ -45,3 +45,7 @@
 <br>
 * 분류 : 최소 신장 트리
 <li><a href="https://www.acmicpc.net/problem/1774">1774번 : 우주신과의 교감</a>(크루스칼 알고리즘)</li>
+
+<br>
+* 분류 : 기타
+<li><a href="https://www.acmicpc.net/problem/2920">2920번 : 음계</a>(배열, 구현))</li>
