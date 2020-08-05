@@ -19,6 +19,8 @@
 <br>
 * 분류 : 정렬
 <li><a href="https://www.acmicpc.net/problem/10989">10989번 : 수 정렬하기3</a> (계수 정렬)</li>
+<li><a href="https://www.acmicpc.net/problem/1766">1766번 : 문제집</a> (위상 정렬)</li>
+
 
 <br> 
 * 분류 : DFS, BFS
